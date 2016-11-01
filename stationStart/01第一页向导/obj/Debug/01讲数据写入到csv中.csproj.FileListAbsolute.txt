@@ -1,0 +1,134 @@
+H:\VStest\程序启动\01第一页向导\bin\Debug\01第一页向导.exe
+H:\VStest\程序启动\01第一页向导\bin\Debug\01第一页向导.pdb
+H:\VStest\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form1.resources
+H:\VStest\程序启动\01第一页向导\obj\Debug\_01第一页向导.Properties.Resources.resources
+H:\VStest\程序启动\01第一页向导\obj\Debug\01讲数据写入到csv中.csproj.GenerateResource.Cache
+H:\VStest\程序启动\01第一页向导\obj\Debug\01第一页向导.exe
+H:\VStest\程序启动\01第一页向导\obj\Debug\01第一页向导.pdb
+H:\VStest\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form2.resources
+H:\VStest\程序启动\01第一页向导\obj\Debug\01讲数据写入到csv中.csprojResolveAssemblyReference.cache
+H:\VStest\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form3.resources
+H:\VStest\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form4.resources
+H:\VStest\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form5.resources
+H:\VStest\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form6.resources
+H:\VStest\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form7.resources
+E:\备份\361813793\FileRecv\程序启动\01第一页向导\obj\Debug\01第一页向导.exe
+E:\备份\361813793\FileRecv\程序启动\01第一页向导\obj\Debug\01第一页向导.pdb
+E:\备份\361813793\FileRecv\程序启动\01第一页向导\bin\Debug\01第一页向导.exe
+E:\备份\361813793\FileRecv\程序启动\01第一页向导\bin\Debug\01第一页向导.pdb
+E:\备份\361813793\FileRecv\程序启动\01第一页向导\obj\Debug\01讲数据写入到csv中.csprojResolveAssemblyReference.cache
+E:\备份\361813793\FileRecv\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form2.resources
+E:\备份\361813793\FileRecv\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form3.resources
+E:\备份\361813793\FileRecv\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form4.resources
+E:\备份\361813793\FileRecv\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form5.resources
+E:\备份\361813793\FileRecv\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form6.resources
+E:\备份\361813793\FileRecv\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form7.resources
+E:\备份\361813793\FileRecv\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form1.resources
+E:\备份\361813793\FileRecv\程序启动\01第一页向导\obj\Debug\_01第一页向导.Properties.Resources.resources
+E:\备份\361813793\FileRecv\程序启动\01第一页向导\obj\Debug\01讲数据写入到csv中.csproj.GenerateResource.Cache
+C:\Users\Jun\Desktop\程序启动\01第一页向导\obj\Debug\01第一页向导.exe
+C:\Users\Jun\Desktop\程序启动\01第一页向导\obj\Debug\01第一页向导.pdb
+C:\Users\Jun\Desktop\程序启动\01第一页向导\bin\Debug\01第一页向导.exe
+C:\Users\Jun\Desktop\程序启动\01第一页向导\bin\Debug\01第一页向导.pdb
+C:\Users\Jun\Desktop\程序启动\01第一页向导\obj\Debug\01讲数据写入到csv中.csprojResolveAssemblyReference.cache
+C:\Users\Jun\Desktop\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form2.resources
+C:\Users\Jun\Desktop\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form3.resources
+C:\Users\Jun\Desktop\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form4.resources
+C:\Users\Jun\Desktop\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form5.resources
+C:\Users\Jun\Desktop\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form6.resources
+C:\Users\Jun\Desktop\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form7.resources
+C:\Users\Jun\Desktop\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form1.resources
+C:\Users\Jun\Desktop\程序启动\01第一页向导\obj\Debug\_01第一页向导.Properties.Resources.resources
+C:\Users\Jun\Desktop\程序启动\01第一页向导\obj\Debug\01讲数据写入到csv中.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\练习\程序启动\01第一页向导\obj\Debug\01第一页向导.exe
+C:\Users\Administrator\Desktop\练习\程序启动\01第一页向导\obj\Debug\01第一页向导.pdb
+C:\Users\Administrator\Desktop\练习\程序启动\01第一页向导\bin\Debug\01第一页向导.exe
+C:\Users\Administrator\Desktop\练习\程序启动\01第一页向导\bin\Debug\01第一页向导.pdb
+C:\Users\Administrator\Desktop\练习\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form2.resources
+C:\Users\Administrator\Desktop\练习\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form7.resources
+C:\Users\Administrator\Desktop\练习\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form1.resources
+C:\Users\Administrator\Desktop\练习\程序启动\01第一页向导\obj\Debug\_01第一页向导.Properties.Resources.resources
+C:\Users\Administrator\Desktop\练习\程序启动\01第一页向导\obj\Debug\01讲数据写入到csv中.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\练习\程序启动\01第一页向导\obj\Debug\_01第一页向导.New_station.resources
+C:\Users\Administrator\Desktop\练习\程序启动\01第一页向导\obj\Debug\01讲数据写入到csv中.csprojResolveAssemblyReference.cache
+C:\Users\liuc\Desktop\系统\系统\程序启动\01第一页向导\bin\Debug\01第一页向导.exe
+C:\Users\liuc\Desktop\系统\系统\程序启动\01第一页向导\bin\Debug\01第一页向导.pdb
+C:\Users\liuc\Desktop\系统\系统\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form2.resources
+C:\Users\liuc\Desktop\系统\系统\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form7.resources
+C:\Users\liuc\Desktop\系统\系统\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form1.resources
+C:\Users\liuc\Desktop\系统\系统\程序启动\01第一页向导\obj\Debug\_01第一页向导.New_station.resources
+C:\Users\liuc\Desktop\系统\系统\程序启动\01第一页向导\obj\Debug\_01第一页向导.Properties.Resources.resources
+C:\Users\liuc\Desktop\系统\系统\程序启动\01第一页向导\obj\Debug\01讲数据写入到csv中.csproj.GenerateResource.Cache
+C:\Users\liuc\Desktop\系统\系统\程序启动\01第一页向导\obj\Debug\01第一页向导.exe
+C:\Users\liuc\Desktop\系统\系统\程序启动\01第一页向导\obj\Debug\01第一页向导.pdb
+C:\Users\liuc\Desktop\系统\系统\程序启动\01第一页向导\obj\Debug\01讲数据写入到csv中.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\程序启动\01第一页向导\obj\Debug\01第一页向导.exe
+C:\Users\Administrator\Desktop\程序启动\01第一页向导\obj\Debug\01第一页向导.pdb
+C:\Users\Administrator\Desktop\程序启动\01第一页向导\bin\Debug\01第一页向导.exe
+C:\Users\Administrator\Desktop\程序启动\01第一页向导\bin\Debug\01第一页向导.pdb
+C:\Users\Administrator\Desktop\程序启动\01第一页向导\obj\Debug\01讲数据写入到csv中.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form2.resources
+C:\Users\Administrator\Desktop\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form7.resources
+C:\Users\Administrator\Desktop\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form1.resources
+C:\Users\Administrator\Desktop\程序启动\01第一页向导\obj\Debug\_01第一页向导.New_station.resources
+C:\Users\Administrator\Desktop\程序启动\01第一页向导\obj\Debug\_01第一页向导.Properties.Resources.resources
+C:\Users\Administrator\Desktop\程序启动\01第一页向导\obj\Debug\01讲数据写入到csv中.csproj.GenerateResource.Cache
+C:\Users\liuc\Desktop\程序启动1024\01第一页向导\obj\Debug\01第一页向导.exe
+C:\Users\liuc\Desktop\程序启动1024\01第一页向导\obj\Debug\01第一页向导.pdb
+C:\Users\liuc\Desktop\程序启动1024\01第一页向导\bin\Debug\01第一页向导.exe
+C:\Users\liuc\Desktop\程序启动1024\01第一页向导\bin\Debug\01第一页向导.pdb
+C:\Users\liuc\Desktop\程序启动1024\01第一页向导\obj\Debug\01讲数据写入到csv中.csprojResolveAssemblyReference.cache
+C:\Users\liuc\Desktop\程序启动1024\01第一页向导\obj\Debug\_01第一页向导.Form2.resources
+C:\Users\liuc\Desktop\程序启动1024\01第一页向导\obj\Debug\_01第一页向导.Form7.resources
+C:\Users\liuc\Desktop\程序启动1024\01第一页向导\obj\Debug\_01第一页向导.Form1.resources
+C:\Users\liuc\Desktop\程序启动1024\01第一页向导\obj\Debug\_01第一页向导.New_station.resources
+C:\Users\liuc\Desktop\程序启动1024\01第一页向导\obj\Debug\_01第一页向导.Properties.Resources.resources
+C:\Users\liuc\Desktop\程序启动1024\01第一页向导\obj\Debug\01讲数据写入到csv中.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\程序启动1024\01第一页向导\obj\Debug\01第一页向导.exe
+C:\Users\Administrator\Desktop\程序启动1024\01第一页向导\obj\Debug\01第一页向导.pdb
+C:\Users\Administrator\Desktop\程序启动1024\01第一页向导\bin\Debug\01第一页向导.exe
+C:\Users\Administrator\Desktop\程序启动1024\01第一页向导\bin\Debug\01第一页向导.pdb
+C:\Users\Administrator\Desktop\程序启动1024\01第一页向导\obj\Debug\_01第一页向导.Form2.resources
+C:\Users\Administrator\Desktop\程序启动1024\01第一页向导\obj\Debug\_01第一页向导.Form7.resources
+C:\Users\Administrator\Desktop\程序启动1024\01第一页向导\obj\Debug\_01第一页向导.Form1.resources
+C:\Users\Administrator\Desktop\程序启动1024\01第一页向导\obj\Debug\_01第一页向导.New_station.resources
+C:\Users\Administrator\Desktop\程序启动1024\01第一页向导\obj\Debug\_01第一页向导.Properties.Resources.resources
+C:\Users\Administrator\Desktop\程序启动1024\01第一页向导\obj\Debug\01讲数据写入到csv中.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\程序启动1024\01第一页向导\obj\Debug\01讲数据写入到csv中.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\程序启动1024\01第一页向导\obj\Debug\_01第一页向导.start.resources
+C:\Users\liuc\Desktop\程序启动1025\01第一页向导\obj\Debug\01第一页向导.exe
+C:\Users\liuc\Desktop\程序启动1025\01第一页向导\obj\Debug\01第一页向导.pdb
+C:\Users\liuc\Desktop\程序启动1025\01第一页向导\bin\Debug\01第一页向导.exe
+C:\Users\liuc\Desktop\程序启动1025\01第一页向导\bin\Debug\01第一页向导.pdb
+C:\Users\liuc\Desktop\程序启动1025\01第一页向导\obj\Debug\01讲数据写入到csv中.csprojResolveAssemblyReference.cache
+C:\Users\liuc\Desktop\程序启动1025\01第一页向导\obj\Debug\_01第一页向导.Form2.resources
+C:\Users\liuc\Desktop\程序启动1025\01第一页向导\obj\Debug\_01第一页向导.Form7.resources
+C:\Users\liuc\Desktop\程序启动1025\01第一页向导\obj\Debug\_01第一页向导.Form1.resources
+C:\Users\liuc\Desktop\程序启动1025\01第一页向导\obj\Debug\_01第一页向导.New_station.resources
+C:\Users\liuc\Desktop\程序启动1025\01第一页向导\obj\Debug\_01第一页向导.Properties.Resources.resources
+C:\Users\liuc\Desktop\程序启动1025\01第一页向导\obj\Debug\_01第一页向导.start.resources
+C:\Users\liuc\Desktop\程序启动1025\01第一页向导\obj\Debug\01讲数据写入到csv中.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\程序启动1025\01第一页向导\obj\Debug\01第一页向导.exe
+C:\Users\Administrator\Desktop\程序启动1025\01第一页向导\obj\Debug\01第一页向导.pdb
+C:\Users\Administrator\Desktop\程序启动1025\01第一页向导\bin\Debug\01第一页向导.exe
+C:\Users\Administrator\Desktop\程序启动1025\01第一页向导\bin\Debug\01第一页向导.pdb
+C:\Users\Administrator\Desktop\程序启动1025\01第一页向导\obj\Debug\_01第一页向导.Form2.resources
+C:\Users\Administrator\Desktop\程序启动1025\01第一页向导\obj\Debug\_01第一页向导.Form7.resources
+C:\Users\Administrator\Desktop\程序启动1025\01第一页向导\obj\Debug\_01第一页向导.Form1.resources
+C:\Users\Administrator\Desktop\程序启动1025\01第一页向导\obj\Debug\_01第一页向导.New_station.resources
+C:\Users\Administrator\Desktop\程序启动1025\01第一页向导\obj\Debug\_01第一页向导.Properties.Resources.resources
+C:\Users\Administrator\Desktop\程序启动1025\01第一页向导\obj\Debug\_01第一页向导.start.resources
+C:\Users\Administrator\Desktop\程序启动1025\01第一页向导\obj\Debug\01讲数据写入到csv中.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\程序启动1025\01第一页向导\obj\Debug\01讲数据写入到csv中.csprojResolveAssemblyReference.cache
+C:\Users\taobaobao\Documents\Tencent Files\1045931706\FileRecv\程序启动1025\01第一页向导\obj\Debug\01第一页向导.exe
+C:\Users\taobaobao\Documents\Tencent Files\1045931706\FileRecv\程序启动1025\01第一页向导\obj\Debug\01第一页向导.pdb
+C:\Users\taobaobao\Documents\Tencent Files\1045931706\FileRecv\程序启动1025\01第一页向导\bin\Debug\01第一页向导.exe
+C:\Users\taobaobao\Documents\Tencent Files\1045931706\FileRecv\程序启动1025\01第一页向导\bin\Debug\01第一页向导.pdb
+C:\Users\taobaobao\Documents\Tencent Files\1045931706\FileRecv\程序启动1025\01第一页向导\obj\Debug\01讲数据写入到csv中.csprojResolveAssemblyReference.cache
+C:\Users\taobaobao\Documents\Tencent Files\1045931706\FileRecv\程序启动1025\01第一页向导\obj\Debug\_01第一页向导.Form2.resources
+C:\Users\taobaobao\Documents\Tencent Files\1045931706\FileRecv\程序启动1025\01第一页向导\obj\Debug\_01第一页向导.Form7.resources
+C:\Users\taobaobao\Documents\Tencent Files\1045931706\FileRecv\程序启动1025\01第一页向导\obj\Debug\_01第一页向导.Form1.resources
+C:\Users\taobaobao\Documents\Tencent Files\1045931706\FileRecv\程序启动1025\01第一页向导\obj\Debug\_01第一页向导.New_station.resources
+C:\Users\taobaobao\Documents\Tencent Files\1045931706\FileRecv\程序启动1025\01第一页向导\obj\Debug\_01第一页向导.Properties.Resources.resources
+C:\Users\taobaobao\Documents\Tencent Files\1045931706\FileRecv\程序启动1025\01第一页向导\obj\Debug\_01第一页向导.start.resources
+C:\Users\taobaobao\Documents\Tencent Files\1045931706\FileRecv\程序启动1025\01第一页向导\obj\Debug\01讲数据写入到csv中.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+H:\VStest\程序启动\01第一页向导\bin\Debug\01第一页向导.exe
+H:\VStest\程序启动\01第一页向导\bin\Debug\01第一页向导.pdb
+H:\VStest\程序启动\01第一页向导\obj\Debug\01第一页向导.csprojResolveAssemblyReference.cache
+H:\VStest\程序启动\01第一页向导\obj\Debug\_01第一页向导.Form1.resources
+H:\VStest\程序启动\01第一页向导\obj\Debug\_01第一页向导.Properties.Resources.resources
+H:\VStest\程序启动\01第一页向导\obj\Debug\01第一页向导.csproj.GenerateResource.Cache
+H:\VStest\程序启动\01第一页向导\obj\Debug\01第一页向导.exe
+H:\VStest\程序启动\01第一页向导\obj\Debug\01第一页向导.pdb
