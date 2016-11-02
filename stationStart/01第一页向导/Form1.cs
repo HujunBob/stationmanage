@@ -12,7 +12,7 @@ using System.Configuration;
 using Oracle.ManagedDataAccess;
 using Oracle.ManagedDataAccess.Client;
 using Oracle.ManagedDataAccess.Types;
-//123456
+
 namespace _01第一页向导
 {
     //form1为向导页
